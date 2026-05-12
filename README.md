@@ -25,4 +25,36 @@ Facilitar a conexão entre desenvolvedores e oportunidades reais de emprego, tor
 
 ## 👨‍💻 Desenvolvido por
 
-James, Alice e Felipe.
+### James, Alice e Felipe.
+
+## ▶ Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/seuusuario/codehunter.git
+```
+
+Entre na pasta do projeto:
+
+```bash
+cd codehunter
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+O projeto ficará disponível em:
+
+```txt
+http://localhost:5173
+```
