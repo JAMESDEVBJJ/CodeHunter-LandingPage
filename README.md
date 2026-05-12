@@ -4,7 +4,7 @@ CodeHunter é uma landing page desenvolvida para apresentar uma solução focada
 
 O projeto foi criado por estudantes de TI da Unicesusc com o objetivo de centralizar oportunidades de emprego que muitas vezes ficam espalhadas em diferentes plataformas e sites de empresas.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Busca centralizada de vagas
 - Interface moderna e responsiva
@@ -25,4 +25,4 @@ Facilitar a conexão entre desenvolvedores e oportunidades reais de emprego, tor
 
 ## 👨‍💻 Desenvolvido por
 
-Projeto acadêmico desenvolvido por alunos da Unicesusc.
+James, Alice e Felipe.
